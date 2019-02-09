@@ -657,7 +657,7 @@
             "DIV": {
               "font-family": "'Titillium Web', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
-              "font-size": "20px",
+              "font-size": "15px",
               "color": "#803e3e",
               "text-align": "left"
             },
