@@ -16,7 +16,8 @@
     "versionFirst": "4.8.10",
     "siteFonts": [],
     "uniqCompNum": 18,
-    "versionPublish": "4.8.10"
+    "versionPublish": "4.8.10",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -346,12 +347,12 @@
             {
               "authorName": "ABANOUB S.",
               "authorBio": "User",
-              "text": "As minhas primeiras recordações da infância devem ser de quando tinha 5, 6 anos. De antes disso tenho uns flashes e pouco mais e o que sei sobre essa época pré-consciência resume-se aos episódios que me contaram.\r<div>Mas, chegada àquela altura a partir da qual já contamos histórias na primeira pessoa, apesar das poucas certezas e do grande desconhecimento do mundo como ele é, uma coisa que eu sabia sobre a vida: que ela era boa.\r</div>"
+              "text": "<p><i><b>\"E agora, enquanto o sol gradativamente se afasta numa obsolescência anunciada, chega a noite quase eterna. Por ser novembro, hoje foi dia de colheita e o que arrancaram de mim foi o fruto de paixões ferozes. Por isso, além desta copa despida e de uns ramos secos, nada mais sobrou além do vazio de quem agora te escreve.\"</b></i></p><p><i><b><br></b></i></p><p><br></p><p><i>vinte e um de outubro</i></p>"
             },
             {
               "authorName": "SUFFIAN A.",
               "authorBio": "User",
-              "text": "<em>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag &amp; drop with no time design bootstrap builder in present web design world.”</em>"
+              "text": "Reparei, enquanto reunia os meus despretenciosos poemas, escritos ao longo de aproximadamente sete anos, que, na sua maioria, foram escritos no outono. Há realmente alguma coisa, além de uma fervente vontade de escrever e rabiscar aqui e ali, que os dias cinzentos, as trombas-d’água e as gotas de chuva nos vidros e nas folhas inspiram. Entre elas, a melancolia da alma que este blogue traça.\n<div>São textos, que, não sendo necessariamente autobiográficos, as cores da estação inspiraram. São descrições de estados de espírito, de emoções em ebulição, de vontades, por vezes irracionais, provenientes de mentes barulhentas e inquietas.</div><div><br></div>"
             },
             {
               "authorName": "JHOLLMAN C.",
@@ -369,7 +370,7 @@
             {
               "authorName": "ABANOUB S.",
               "authorBio": "User",
-              "text": "<p><i><b>\"E agora, enquanto o sol gradativamente se afasta numa obsolescência anunciada, chega a noite quase eterna. Por ser novembro, hoje foi dia de colheita e o que arrancaram de mim foi o fruto de paixões ferozes. Por isso, além desta copa despida e de uns ramos secos, nada mais sobrou além do vazio de quem agora te escreve.\"</b></i></p><p><i><b><br></b></i></p><p><br></p><p><i>vinte e um de outubro</i></p>"
+              "text": "<p><i><b>\"E agora, enquanto o sol gradativamente se afasta numa obsolescência anunciada, chega a noite quase eterna. Por ser novembro, hoje foi dia de colheita e o que arrancaram de mim foi o fruto de paixões ferozes. Por isso, além desta copa despida e de uns ramos secos, nada mais sobrou além do vazio de quem agora te escreve.\"</b></i></p><p><i><b><br></b></i></p><p><br></p><p><i>vinte e um de novembro</i></p>"
             },
             {
               "authorName": "SUFFIAN A.",
