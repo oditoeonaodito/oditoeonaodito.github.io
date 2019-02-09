@@ -1,0 +1,725 @@
+{
+  "settings": {
+    "name": "O Dito &amp; O Não Dito",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {},
+      "additionalSetColors": [
+        "#803e3e",
+        "#314674",
+        "#471313"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.8.10",
+    "siteFonts": [],
+    "uniqCompNum": 18,
+    "versionPublish": "4.8.10"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "color": "#fff",
+            "hamburgerColor": "#000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Contact</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">O Dito &amp; O Não Dito</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-3",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            }
+          }
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "left",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1323.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff8e0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5
+          },
+          "title": "O Dito &amp; O Não Dito",
+          "text": "<b>O que não é dito atravessa-se na garganta e consome.<br>O que é dito é aceite e traz paz.</b>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\">For MAC</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "header4",
+          "_anchor": "header4-4",
+          "_styles": {
+            "H1": {
+              "color": "#f2f2f2",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "P": {
+              "color": "#f2f2f2"
+            },
+            "B": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "19",
+            "paddingTop": "1",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x931.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Um Blog adiado por uma década",
+          "text": "<p>Quando, após mais de dez anos de silêncio, de uma paralisia real na hora de escrever, chega, finalmente a coragem de aceitar o passado, juntar o melhor que de mim ficou e seguir em frente.&nbsp;</p><p>São textos, uma história, pensamentos e pequenos poemas sobre o que fica depois da chuva.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Layout"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-6"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": false,
+            "showButtons": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x399.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/feature-google-fonts.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/feature-websites.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "Meus poemas reunidos",
+          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Minha história completa",
+          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Web Fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button1": "<a data-app-btn=\"true\" href=\"assets/files/o que fica depois da chuva.docx\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Em breve</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"assets/files/coaching.docx\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Em breve</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-9",
+          "_styles": {
+            "H4": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            ".btn": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1101.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "O que fica depois da chuva?",
+          "caption": "<p>O Que Fica Depois da Chuva? - pergunto-me incontáveis vezes. O que restará da pessoa após a devastação? Indagar sobre os efeitos dos danos sofridos ao longo dos anos trouxe-me até aqui, ao conjunto destes textos. O que é facto é que se sobrevive às chuvas da vida, porque, entre as que deixam um rasto de destruição, existem as que refrescam e revigoram, dando a quem se molha uma segunda, uma terceira, uma quarta, muitas chances de viver após a tempestade.</p><p>O que fica depois da chuva é o que trouxerem os dias que se seguirão a ela. Será, inclusive, este exato momento em que escrevo estas palavras. E é esse momento, imediatamente após o ‘agora’ e que não passa de um instante, que define o que somos, apesar da chuva e das nuvens carregadas que a anteciparam e dos estragos que em nós causou.\n</p><p><br></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-7",
+          "_styles": {
+            "P": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "16px",
+              "text-align": "left",
+              "color": "#314674"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showName": false,
+            "showBio": false,
+            "count": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "header": "What Our Fantastic Users Say",
+          "items": [
+            {
+              "authorName": "ABANOUB S.",
+              "authorBio": "User",
+              "text": "As minhas primeiras recordações da infância devem ser de quando tinha 5, 6 anos. De antes disso tenho uns flashes e pouco mais e o que sei sobre essa época pré-consciência resume-se aos episódios que me contaram.\r<div>Mas, chegada àquela altura a partir da qual já contamos histórias na primeira pessoa, apesar das poucas certezas e do grande desconhecimento do mundo como ele é, uma coisa que eu sabia sobre a vida: que ela era boa.\r</div>"
+            },
+            {
+              "authorName": "SUFFIAN A.",
+              "authorBio": "User",
+              "text": "<em>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag &amp; drop with no time design bootstrap builder in present web design world.”</em>"
+            },
+            {
+              "authorName": "JHOLLMAN C.",
+              "authorBio": "User",
+              "text": "<em>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</em>"
+            }
+          ],
+          "alias": "purity/components",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-8",
+          "testimonial": [
+            {
+              "authorName": "ABANOUB S.",
+              "authorBio": "User",
+              "text": "<p><i><b>\"E agora, enquanto o sol gradativamente se afasta numa obsolescência anunciada, chega a noite quase eterna. Por ser novembro, hoje foi dia de colheita e o que arrancaram de mim foi o fruto de paixões ferozes. Por isso, além desta copa despida e de uns ramos secos, nada mais sobrou além do vazio de quem agora te escreve.\"</b></i></p><p><i><b><br></b></i></p><p><br></p><p><i>vinte e um de outubro</i></p>"
+            },
+            {
+              "authorName": "SUFFIAN A.",
+              "authorBio": "User",
+              "text": "Reparei, enquanto reunia os meus despretenciosos poemas, escritos ao longo de aproximadamente sete anos, que, na sua maioria, foram escritos no outono. Há realmente alguma coisa, além de uma fervente vontade de escrever e rabiscar aqui e ali, que os dias cinzentos, as trombas-d’água e as gotas de chuva nos vidros e nas folhas inspiram. Entre elas, a melancolia da alma que este blogue traça.\n<div>São textos, que, não sendo necessariamente autobiográficos, as cores da estação inspiraram. São descrições de estados de espírito, de emoções em ebulição, de vontades, por vezes irracionais, provenientes de mentes barulhentas e inquietas.</div><div><br></div>"
+            }
+          ],
+          "_styles": {
+            ".card-block DIV": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "color": "#314674"
+            },
+            ".card-block": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "color": "#314674"
+            },
+            ".card-block P": {
+              "text-align": "right",
+              "color": "#803e3e",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": false,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "21",
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x975.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Drag &amp; Drop Website Builder",
+          "text": "<i><b>\"Há qualquer coisa de triste no outono...\n</b></i><div><i><b>É o dia que acaba mais cedo\n</b></i></div><div><i><b>E as luzes de casa se acendem.\n</b></i></div><div><i><b>É o morno de um forno aceso,\n</b></i></div><div><i><b>É ausência do calor de verão\n</b></i></div><div><i><b>Que sem dar conta se foi.\n</b></i></div><div><i><b>É um frio que entra na alma,\n</b></i></div><div><i><b>É uma saudade da infância que dói,\n</b></i></div><div><i><b>É a voz distante da mãe na cozinha.\n</b></i></div><div><i><b>É um querer constante de aconchego...\n</b></i></div><div><i><b>É castanho em vez de azul\n</b></i></div><div><i><b>Num desfile de cores secas.\n</b></i></div><div><i><b>É a chuva que cai horas a fio\n</b></i></div><div><i><b>É água que escorre p’lo vidro\n</b></i></div><div><i><b>É vento que sopra entre as casas\n<span style=\"font-size: 1.25rem;\"></span></b></i></div><div><i><b>Triste de mim\n</b></i></div><div><i><b>Que não sou impermeável\n</b></i></div><div><i><b>E sempre abro a porta ao fim da tarde...\"</b></i></div><div><br></div>",
+          "alias": "purity/components",
+          "_tags": [
+            "Layout"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-a",
+          "_styles": {
+            ".lead P": {
+              "text-align": "left",
+              "font-size": "13px",
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic"
+            },
+            ".lead DIV": {
+              "text-align": "right",
+              "font-size": "18px",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            ".lead": {
+              "text-align": "right",
+              "font-size": "16px",
+              "color": "#803e3e"
+            },
+            ".lead I": {
+              "font-size": "15px",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          }
+        },
+        {
+          "text": "<p>As minhas primeiras recordações da infância devem ser de quando tinha 5, 6 anos. De antes disso tenho uns flashes e pouco mais e o que sei sobre essa época pré-consciência resume-se aos episódios que me contaram.\n</p><p>Mas, chegada àquela altura a partir da qual já contamos histórias na primeira pessoa, apesar das poucas certezas e do grande desconhecimento do mundo como ele é, uma coisa que eu sabia sobre a vida: que ela era boa.</p><p>Sempre fui sociável, faladora e, quando calha, faço, sem dificuldades, conversa com desco-nhecidos. Desenvolvi isso nesses anos. Descobri que pessoas são seres incríveis, cada um à sua maneira, e que conhecer pessoas diferentes era uma experiência realmente enriquece-dora. Aprendi em casa, entre muitas outras coisas, sobre proteção e carinho com o meu ir-mão, com o meu pai aprendi o respeito, com a minha mãe, o amor. E depois nas brincadeiras de rua, aprendi sobre companheirismo e autodefesa. Na escola, com os professores aprendi sobre altruísmo e profunda admiração.\n</p><p>O que não me disseram na altura é que a vida encarregar-se-ia de me ensinar sobre um lado obscuro das pessoas e sobre como viver com e apesar disso.\n</p><p><br></p><p><br></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-b",
+          "_styles": {
+            "P": {
+              "font-size": "18px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "32",
+            "paddingTop": "1",
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/photo-5.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Video Embed",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<i><b>\"Que nos defina o hoje, o agora e o momento\n</b></i><div><i><b>E não o passado, que, por portas e travessas, nos traiu e feriu\n</b></i></div><div><i><b>Como faca que traspassa o peito aberto.\n</b></i></div><div><i><b>Porque fortes são os que transpõem a estrada antiga \n</b></i></div><div><i><b>E encontram enfim a paz de um caminho novo,\n</b></i></div><div><i><b>Valentes os que enterram as armas de guerras idas\n</b></i></div><div><i><b>Que perdoam o imperdoável\n</b></i></div><div><i><b>E, que ao fazê-lo, se curam.\n</b></i></div><div><i><b>Audazes os que dão uma oportunidade ao recomeço\n</b></i></div><div><i><b>E os que, mesmo com a asa partida e despedaçados os sonhos,\n</b></i></div><div><i><b>Conseguem voltar a acreditar.\n</b></i></div><div><i><b>A esses abrem-se caminhos no deserto,\n</b></i></div><div><i><b>Ressurgem anseios, visões, esperança.\n</b></i></div><div><i><b>A esses, de noite, antes de cada adormecer,\n</b></i></div><div><i><b>Ainda em êxtase por terem sobrevivido\n</b></i></div><div><i><b>E pousada a cabeça no regaço mais chegado,\n</b></i></div><div><i><b>Num clamor silencioso de gratidão,\n</b></i></div><div><i><b>Chega, notável, a sensação de ter renascido\n</b></i></div><div><i><b>E de poder, finalmente e sem porquês, viver.\"</b></i></div><div><br></div>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-f",
+          "_styles": {
+            ".lead DIV": {
+              "text-align": "left",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "15px",
+              "color": "#803e3e"
+            },
+            ".lead": {
+              "color": "#803e3e",
+              "text-align": "left",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "15px"
+            }
+          }
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-1.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5
+          },
+          "title": "Mobirise",
+          "text": "O sofrimento e, por vezes, o desejo da morte dão o mote aos escritos com certos laivos de soturnidade que não podem ser desassociados da nossa condição humana, da condição de qualquer um de nós. Isto porque somos feitos de pequenos espaços de tempo entre a alegria, a tristeza, a euforia e o sofrimento. Raramente escrevo nesses intervalos, quando os tempos são de serenidade. Talvez porque os situe num espaço neutro entre os dois polos que interferem diretamente com o que, implodindo por dentro, se materializa em riso, num lado, e choro, no outro. Essa neutralidade inspirará em mim outros feitos que não o da escrita. \n<br>Estar triste, abalado, desiludido ou angustiado é tão válido e tão natural como estar – antagonicamente – feliz, seguro, deslumbrado ou tranquilo. Saber discernir isso é difícil. O polo da ‘felicidade’ é sempre mais sedutor que o seu oposto, ainda que a receita para se ser feliz continue, desde sempre, em sigilo.\n<br>Talvez defina esta coletânea como uma espécie de disjunção necessária à moda dos livros de autoajuda. Reconhecer, aceitar os nossos percursos negros, aqueles com que nos debatemos ocasionalmente, que ocultamos de todos, por vezes até de nós próprios quando os negamos, será, à luz das minhas vivências pessoais, o início do caminho em direção ao equilíbrio e à plenitude que todos aspiramos. O desafio ao leitor é o mergulho no lado lunar da alma humana.&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">Learn More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-g",
+          "_styles": {
+            "P": {
+              "font-size": "18px",
+              "color": "#314674"
+            }
+          }
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": false,
+            "bgColor": "#ffffff",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1080.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": false,
+                "showTitle": true,
+                "title": "<div><i>\"Se eu duvidasse de Deus</i></div><div><i>Por uns instantes\n</i></div><div><i>Por uma fração de meio segundo só;\n</i></div><div><i>Se, por um rasgo num momento breve,\n</i></div><div><i>Questionasse a Sua existência;\n</i></div><div><i>Se a ciência por factos provados\n</i></div><div><i>Me mostrasse\n</i></div><div><i>Que Ele foi sempre obra da idealização,\n</i></div><div><i>Um ser imaginário sublime\n</i></div><div><i>Que ajuda a entender o intangível;\n</i></div><div><i>E se eu olvidasse os dias em que O senti ao meu lado\n</i></div><div><i>Esse seria o instante do fim\n</i></div><div><i>O passo da coragem que me falta\n</i></div><div><i>Seria o impulso antes do salto para o nada\n</i></div><div><i>A pedra sobre o assunto\n</i></div><div><i>A resolução da dor\n</i></div><div><i>Do medo\n</i></div><div><i>O fim de águas felizes nos olhos\n</i></div><div><i>O ponto final\n</i></div><div><i>Assim.\"</i></div><div><br></div>",
+                "contentAlign": "left",
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Partilhar no Facebook</a> ",
+                "overlay": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/photo-10.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "title": "<i>\"Queria ter nascido de ferro\n</i><div><i>Resistente ao tempo e aos embates\n</i></div><div><i>Mas nasci de vidro \n</i></div><div><i>E dei por mim em pedaços.\n</i></div><div>\n</div><div><i>Os cacos que apanhei\n</i></div><div><i>Espalhados aqui e ali\n</i></div><div><i>Reuni num só lugar\n</i></div><div><i>Neste peito inflamado.\n</i></div><div>\n</div><div><i>E onde havia dantes chagas\n</i></div><div><i>Feridas abertas gritantes\n</i></div><div><i>Existem agora remendos\n</i></div><div><i>Que fiz com pedaços de mim.\n</i></div><div>\n</div><div><i>Sou o que fiz de mim\n</i></div><div><i>E com o que de mim sobrou\n</i></div><div><i>Sou pequenos pedaços de estórias\n</i></div><div><i>Costurado de amor e dor.\"</i></div><div><br></div>",
+                "contentAlign": "right",
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1195.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": true,
+                "title": "\"Ela não sabia nem sonhava\n<div>Nem pela sua mente passava\n</div><div>Os dias que haviam de vir.\n</div><div>Ela vivia do sol e do ar\n</div><div>Vivia de campo e do mar,\n</div><div>Ela brincava sob o calor de agosto\n</div><div>Ou à chuva sob o céu nublado.\n</div><div>Ingénua, pura e simples\n</div><div>Sangue fervente de querer à força ser feliz.\n</div><div>Mas ela não sabia nem sonhava\n</div><div>Não podia imaginar\n</div><div>Que haveria mais chuva que sol\n</div><div>Mais céu cinzento que azul\n</div><div>Mais noite cerrada que dia.\n</div><div>É que se ela imaginasse sequer\n</div><div>Não escreveria na página em branco diante dela\n</div><div>Seria feliz até hoje\n</div><div>E nem pensaria em poemas.\"</div><div><br></div>",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "alias": "purity/components",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-h",
+          "_styles": {
+            "DIV": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px",
+              "color": "#803e3e",
+              "text-align": "left"
+            },
+            "B": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px"
+            },
+            "H2": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "20px",
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "counters": true,
+            "facebook": true,
+            "twitter": true,
+            "google": true
+          },
+          "text": "Partilha esta página",
+          "alias": "purity/components",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-d",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#26272c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2019 ODito&amp;ONãoDito&nbsp;<a href=\"https://mobirise.com/\">Terms of Use</a>  | <a href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-c"
+        }
+      ]
+    }
+  }
+}

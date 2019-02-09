@@ -1,0 +1,118 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#menu-3 .navbar-toggler {
+  color: #000;
+}
+#header4-4 H1 {
+  color: #f2f2f2;
+  font-family: 'Montserrat', sans-serif;
+}
+#header4-4 P {
+  color: #f2f2f2;
+}
+#header4-4 B {
+  font-family: 'Montserrat', sans-serif;
+}
+#features1-9 H4 {
+  font-family: 'Titillium Web', sans-serif;
+}
+#features1-9 .btn {
+  font-family: 'Titillium Web', sans-serif;
+}
+#content5-7 P {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  text-align: left;
+  color: #314674;
+}
+#content5-7 .mbr-section-title {
+  font-family: 'Roboto', sans-serif;
+}
+#testimonials1-8 .card-block DIV {
+  font-family: 'Roboto', sans-serif;
+  color: #314674;
+}
+#testimonials1-8 .card-block {
+  font-family: 'Roboto', sans-serif;
+  color: #314674;
+}
+#testimonials1-8 .card-block P {
+  text-align: right;
+  color: #803e3e;
+  font-family: 'Titillium Web', sans-serif;
+}
+#msg-box4-a .lead P {
+  text-align: left;
+  font-size: 13px;
+  font-family: 'Playfair Display', sans-serif;
+}
+#msg-box4-a .lead DIV {
+  text-align: right;
+  font-size: 18px;
+  font-family: 'Titillium Web', sans-serif;
+}
+#msg-box4-a .lead {
+  text-align: right;
+  font-size: 16px;
+  color: #803e3e;
+}
+#msg-box4-a .lead I {
+  font-size: 15px;
+  font-family: 'Titillium Web', sans-serif;
+}
+#content1-b P {
+  font-size: 18px;
+}
+#msg-box5-f .lead DIV {
+  text-align: left;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 15px;
+  color: #803e3e;
+}
+#msg-box5-f .lead {
+  color: #803e3e;
+  text-align: left;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 15px;
+}
+#header2-g P {
+  font-size: 18px;
+  color: #314674;
+}
+#slider-h DIV {
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 20px;
+  color: #803e3e;
+  text-align: left;
+}
+#slider-h B {
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 20px;
+}
+#slider-h H2 {
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 20px;
+  text-align: left;
+}
+#social-buttons1-d .mbr-section-title {
+  font-size: 36px;
+}
