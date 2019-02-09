@@ -31,50 +31,6 @@
       },
       "components": [
         {
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "showButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": true,
-            "color": "#fff",
-            "hamburgerColor": "#000"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Contact</a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-1920x1282.jpg",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "linkInNewWindow": false,
-              "name": "quote-left",
-              "family": "MobiriseIcons",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "active": true
-            }
-          },
-          "brand": "<a class=\"navbar-brand text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">O Dito &amp; O Não Dito</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Layout"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-3",
-          "_styles": {
-            ".navbar-toggler": {
-              "color": "#000"
-            }
-          }
-        },
-        {
           "_inherit": "header1",
           "_params": {
             "showTitle": true,
@@ -657,7 +613,7 @@
             "DIV": {
               "font-family": "'Titillium Web', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
-              "font-size": "15px",
+              "font-size": "13px",
               "color": "#803e3e",
               "text-align": "left"
             },
@@ -669,7 +625,7 @@
             "H2": {
               "font-family": "'Titillium Web', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
-              "font-size": "20px",
+              "font-size": "13px",
               "text-align": "left"
             }
           }
